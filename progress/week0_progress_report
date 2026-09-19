@@ -37,14 +37,13 @@ AI Agent 導論
 
 ## 本週完成事項
 
-- [ ] 瀏覽並操作 Coze 平台介面
-- [ ] 建立 GitHub Repo
-- [ ] 撰寫並上傳 README.md（產品客服 Agent 初步構想與使用場景）
-- [ ] 用 AI IDE（Claude Code）撰寫本進度報告並上傳到 GitHub
+- [x] 瀏覽並操作 Coze 平台介面
+- [x] 建立 GitHub Repo
+- [x] 撰寫並上傳 README.md（產品客服 Agent 初步構想與使用場景）
+- [x] 用 AI IDE（Claude Code）撰寫本進度報告並上傳到 GitHub
 
 ## 遇到的問題與解決方式
-
-（填寫你這週實際卡關的地方，以及後來怎麼解決 — 例如：不知道怎麼在 Coze 建立第一個節點，後來詢問 Gemini 得到解答）
+對一些專有名詞跟coze操作方式有些陌生，後來詢問claude ai得到解答
 
 ## 下一步計畫
 
